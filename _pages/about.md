@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Pablo García Fernández, a PhD candidate at the Centro Singular de Investigación en Tecnoloxías Intelixentes (CiTIUS), University of Santiago de Compostela. My research focuses on open-vocabulary and few-shot object detection, with applications to general visual recognition and X-ray imagery.
+I am Pablo, a PhD candidate in Computer Vision at the University of Santiago de Compostela (USC) and a researcher at the Research Center on Intelligent Technologies (CiTIUS). My work explores the frontiers of visual recognition under minimal supervision, with a focus on object detection beyond closed-set assumptions. This includes open-vocabulary models, few-shot generalization, and category-free inference. Broadly, I aim to develop scalable, adaptable perception systems that bring computer vision closer to the richness and flexibility of human perception.
 
 In 2024–2025, I was a visiting PhD student at the University of Trento (Italy) with the Multimedia and Human Understanding Group (MHUG). 
 
