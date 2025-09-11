@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://PAGF188.github.io/sitemap.xml
+Sitemap: https://pagf188.github.io/sitemap.xml
