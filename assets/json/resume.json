@@ -22,6 +22,12 @@
   },
 
   "education": [
+     {
+      "institution": "🏛️ University of Santiago de Compostela",
+      "studyType": "International Master in Computer Vision",
+      "startDate": "2022",
+      "endDate": "2025",
+    },
     {
       "institution": "🏛️ University of Santiago de Compostela, Vigo, Coruña, and Porto",
       "url": "https://www.imcv.eu/",
