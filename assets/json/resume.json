@@ -143,11 +143,25 @@
 
   "projects": [
     {
+      "name": "REOPEN: Leveraging Artificial Intelligence for Robust Predictive Monitoring in Process Mining",
+      "summary": "The REOPEN project aims to improve predictive models for complex process mining by using generative models to address data issues like imbalances and anomalies. It also develops novel object detection and tracking models for video to extract activities from unstructured processes, validating them in domains like forest fires and logistics. Role: member.",
+      "startDate": "2024",
+      "endDate": "2027",
+      "url": ""
+    },
+    {
       "name": "AZOR: Search, Location and Rescue of People on Land, and Fire Fighting and Prevention",
-      "summary": "The project addresses the development of an object detection system with RGB and thermal camera to be run on an FPGA on board a UAV for two use cases: (i) search, location and rescue of people on land; (ii) fire prevention and firefighting.",
+      "summary": "The project addresses the development of an object detection system with RGB and thermal camera to be run on an FPGA on board a UAV for two use cases: (i) search, location and rescue of people on land; (ii) fire prevention and firefighting. Role: member.",
       "startDate": "2024",
       "endDate": "2026",
       "url": "https://citius.gal/research/projects/sistema-de-busqueda-localizacion-e-rescate-de-persoas-en-terra-e-prevencion-e-loita-contra-incendios/"
+    },
+    {
+      "name": "Responsible AI for Process Mining 2.0 (RAI4P)",
+      "summary": "RAI4P advances Process Mining 2.0 by predicting process features and extracting events from videos of non-digitized processes, tackling noisy and incomplete data, while following Responsible AI principles and using Natural Language Generation for explanatory analytics. Role: member.",
+      "startDate": "2021",
+      "endDate": "2025",
+      "url": "https://citius.gal/research/projects/ia-responsable-para-mineria-de-procesos-20-/"
     }
   ],
 
